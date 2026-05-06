@@ -29,7 +29,7 @@ Abigail Malech, Henderson Vo, Alyssa Hagele
 
 ## Group name (optional):
 
-[delete this line and enter your group name here; if you don't have one, delete the whole section]
+Veggie Tales 
 
 ## Topic information and question
 
