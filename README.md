@@ -35,21 +35,23 @@ Veggie Tales
 
 **Topic:**  
 
-[delete this line and enter your topic here]
+Vegetation in NCOS
 
 **Question(s):**  
 
-[delete this line and enter your bullet point list here]
+How have key species changed through time in major habitats?
 
 **Response variable(s)**
 
-[delete this line and enter your bullet point list here]
+- percent cover of vegetation species
+- species richness
 
 ## Datasets
 
 **Datasets used:**
 
-[delete this line and enter your bullet point list here]
+- veg.csv
+- vp_veg_metadata.csv
 
 ## Figures
 
@@ -77,22 +79,22 @@ Veggie Tales
 
 **Natural history/framing director:**
 
-[delete this line and enter your own text here]
+Abby
 
 **Stats and visualization director**
 
-[delete this line and enter your own text here]
+Henderson
 
 **GitHub/code director**
 
-[delete this line and enter your own text here]
+Alyssa
 
 
 ## Elective (not required for all groups or group members)
 
 **Group members completing elective:**
 
-[delete this line and enter your own text here]
+Abby, Henderson
 
 **Elective idea:**
 
