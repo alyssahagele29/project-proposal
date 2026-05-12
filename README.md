@@ -94,21 +94,21 @@ Alyssa
 
 **Group members completing elective:**
 
-Abby, Henderson
+Abby, Henderson, Alyssa
 
 **Elective idea:**
 
-[delete this line and enter your own text here]
+A zine featuring different vegetations species in NCOS and general information on each of them.
 
 **Elective timeline (what you will have completed each week):**
 
-Week 7: enter your own text here
+Week 7: decide key species to present in zine
 
-Week 8 (timeline check in): enter your own text here
+Week 8 (timeline check in): gather general data on species, summarize in a research doc, start canva document for zine
 
-Week 9: enter your own text here
+Week 9: continue plant research, work on canva design
 
-Week 10: enter your own text here
+Week 10: finalize canva design, print and assemble zine
 
 Finals week: enter your own text here
 
