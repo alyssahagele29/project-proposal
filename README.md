@@ -110,7 +110,7 @@ Week 9: continue plant research, work on canva design
 
 Week 10: finalize canva design, print and assemble zine
 
-Finals week: enter your own text here
+Finals week: present zine
 
 
 
