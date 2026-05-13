@@ -73,7 +73,91 @@ How have key species changed through time in major habitats?
 
 ## Data cleaning/wrangling/summarizing plan
 
-[delete this line and enter your own text here]
+gl_implicitNA
+- filtered data to show GL transects (grasslands)
+- group observations by year, pool, species
+- calculate mean percent cover for observed species 
+- create new column called from year and transect name (year_pool)
+- join dataframe with metadata 
+
+gl_explicit0
+- filter data to show GL transects 
+- use complete to include missing observations as 0 
+- group by year, pool, species
+- calculate total percent cover across quadrants 
+- create a new column called year_pool from year and transect name
+- join with metadata data frame
+- calculate mean percent cover from total percent cover/number of quadrats
+
+gl_native_explicit0
+- filter to native species only
+- filter to only NCOS grassland transects
+- fill missing species observations with zeros
+- calculate native species percent cover by transect and year
+- join with metadata 
+- calculate mean percent cover from total percent cover/number of quadrats
+
+gl_invasive_explicit0
+- filter dataset to non-native species only
+- filter to only NCOS grassland transects
+- fill missing species observations with zeros using complete
+- calculate invasive species percent cover by transect and year
+- join with metadata 
+- calculate mean percent cover from total percent cover/number of quadrats
+
+native_spp
+- filter veg dataset to include native grassland species
+- pull to extract data frame column as a vector
+
+invasive_spp
+- filter veg dataset to include non native grassland species 
+- pull to extract data frame column as a vector 
+
+native_species_rich
+- group explicit vegetation by year and transect
+- filter to include native species with pc over 0 
+- calculate native species richness using distinct species counts
+
+invasive_species_rich
+- group explicit vegetation by year and transect
+- filter to include non native species with pc over 0 
+- calculate non naitve species richness using species counts 
+
+native_pc
+- filter vegetation dataset to include only native species
+- group by year and transect
+- calculate native percent cover sum
+- join dataframe with metadata
+- calculate native percent cover from total percent cover/number of quadrats
+
+invasive_pc
+- filter vegetation dataset to include only non-native species
+- group by year and transect
+- calculate non native percent cover
+- join dataframe with metadata
+- calculate non native percent cover from total percent cover/number of quadrats
+
+native_interest
+- create vector of native species of interest (5 species) 
+
+non_native_interest
+- create vector of non native species of interest (5 species)
+
+all_interest
+- combine native and non native species of interest for comparative analysis if 
+needed
+
+gl_native_interest
+- filter native explicit dataset to native species of interest
+- add native species classification column
+
+gl_invasive_interest
+- filter nonn native explicit dataset to non native species on interest
+- add non-native species classification column
+
+gl_all_interest
+- combine gl_native_interest and gl_invasive_interest into comparative data 
+frame 
 
 ## Project roles
 
