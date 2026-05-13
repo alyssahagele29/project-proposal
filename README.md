@@ -59,17 +59,25 @@ How have key species changed through time in major habitats?
 
 ![Visualization 1](/man/figures/vis-1.jpeg)
 
+This line graph shows the relationship between native species % cover over time. This graph is relevant because we want to show how each native species cover is changing over time.
+
 **Potential figure 2:**
 
 ![Visualization 2](/man/figures/vis-2.jpeg)
+
+This figure shows species richness of native and non-native species over time, which is relevant to our question looking at how key species are changing over time and could potentially give us more insight as to how non-native species could be changing the composition of key species. 
 
 **Potential figure 3:**
 
 ![Visualization 3](/man/figures/vis-3.jpeg)
 
+This is a strip chart with means and standard deviations for each species total % cover. This figure is relevant to our research question because we want to compare native species cover across transects. The spread and distribution for each species can be easily shown with individual points, a mean, and a standard deviation. This could strengthen our project with further statistical analysis.
+
 **Potential figure 4**
 
 ![Visualization 4](man/figures/vis-4.jpeg)
+
+We want to add a stacked bar chart to compare native vs. non-native cover by percent cover to possibly explain changes in native cover over time (if invasive species is a major contributor).
 
 ## Data cleaning/wrangling/summarizing plan
 
