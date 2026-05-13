@@ -57,19 +57,19 @@ How have key species changed through time in major habitats?
 
 **Potential figure 1:**
 
-[delete this line and enter your figure here]
+![Visualization 1]("man/figures/vis-1.jpeg")
 
 **Potential figure 2:**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+![Visualization 1]("man/figures/vis-2.jpeg")
 
 **Potential figure 3:**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+![Visualization 1]("man/figures/vis-3.jpeg")
 
 **Potential figure 4**
 
-[delete this line and enter your figure here; if you don't have one, delete the entire section]
+![Visualization 1]("man/figures/vis-4.jpeg")
 
 ## Data cleaning/wrangling/summarizing plan
 
